@@ -1,0 +1,17 @@
+SMAP
+registroCategoria_jsp.java
+JSP
+*S JSP
+*F
++ 0 registroCategoria.jsp
+registroCategoria.jsp
++ 1 css.jsp
+css.jsp
+*L
+5,5:49
+13,14:54
+1#1,33:68
+26#0,566:101
+592:667,3
+593,321:670
+*E
